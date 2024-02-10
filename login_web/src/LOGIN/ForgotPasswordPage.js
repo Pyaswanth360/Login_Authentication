@@ -162,7 +162,7 @@ function ForgotPassword () {
         </div>
   
     <div className="flex justify-center mb-0">
-    <p className="mb-0 ">MEASURIT</p>
+    <p className="mb-0 ">FORGOT PASSWORD</p>
   </div>     
     </div>   
 
