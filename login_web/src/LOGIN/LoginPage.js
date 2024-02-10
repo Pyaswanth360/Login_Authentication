@@ -244,7 +244,7 @@ function Login() {
         <div className="bg-black bg-opacity-20 w-[2px] h-[30px]" />
         </div>
         <div className="flex justify-center mb-0">
-          <p className="mb-0 ">MEASURIT</p>
+          <p className="mb-0 ">LOGIN</p>
         </div>     
    </div>   
 
