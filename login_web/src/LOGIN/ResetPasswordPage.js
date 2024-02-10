@@ -219,7 +219,7 @@ console.log(UserDetails)
               </div>
         
           <div className="flex justify-center mb-0">
-          <p className="mb-0 ">MEASURIT</p>
+          <p className="mb-0 ">RESET PASSWORD</p>
         </div>     
           </div>   
 
